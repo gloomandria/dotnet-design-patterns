@@ -1,0 +1,12 @@
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.deps.json
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.dll
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.pdb
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfoInputs.cache
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfo.cs
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.sourcelink.json
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.dll
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\refint\StructuralPatterns.dll
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
+D:\Projets\Internal\REPO\dotnet-design-patterns\DesignPattern\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
